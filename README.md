@@ -1,2 +1,4 @@
 # Group2Work
-Tajam website replica
+Group 2 was assigned to replicate the Tajam website. 
+
+
